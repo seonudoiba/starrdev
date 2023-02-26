@@ -1,7 +1,5 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import { Inter } from 'next/font/google'
-const inter = Inter({ subsets: ['latin'] })
 import Link from 'next/link'
 export default function Home() {
   return (
@@ -25,7 +23,7 @@ export default function Home() {
             level
           </p>
         </div>
-        <a href="#">Learn More →</a>
+        <Link href="/about">Learn More →</Link>
       </section>
       <section className="hero left">
         <hgroup>
@@ -35,11 +33,11 @@ export default function Home() {
         <img src="/undraw_team_spirit_hrr4.svg" alt="Who we are" />
         <div>
           <p>
-            As you can see, we're a digitial agency. But not just any other
+            As you can see, we&apos;re a digitial agency. But not just any other
             agency.
           </p>
           <p>
-            But not just any other agency. At Starrdev, we've gathered
+            But not just any other agency. At Starrdev, we&apos;ve gathered
             some of the top marketing minds under one roof. Our purpose? Serving
             the people all around the world.
           </p>
@@ -51,7 +49,7 @@ export default function Home() {
           <img src="/undraw_design_sprint_x3eb.svg" alt="Web Design" />
           <h4>Web Design</h4>
           <p>
-            We develop distinctive websites that'll leave the users with the
+            We develop distinctive websites that will leave the users with the
             optimal digital.
           </p>
         </div>
@@ -62,7 +60,7 @@ export default function Home() {
           />
           <h4>Web Development</h4>
           <p>
-            We develop distinctive websites that'll leave the users with the
+            We develop distinctive websites that will leave the users with the
             optimal digital experience.
           </p>
         </div>
@@ -78,7 +76,7 @@ export default function Home() {
           <img src="/undraw_fitting_piece_iilo.svg" alt="SEO" />
           <h4>SEO</h4>
           <p>
-            We develop distinctive websites that'll leave the users with the
+            We develop distinctive websites that will leave the users with the
             optimal digital.
           </p>
         </div>
@@ -86,7 +84,7 @@ export default function Home() {
           <img src="/undraw_process_e90d.svg" alt="UX / UI Design" />
           <h4>UX / UI Design</h4>
           <p>
-            We develop distinctive websites that'll leave the users with the
+            We develop distinctive websites that will leave the users with the
             optimal digital.
           </p>
         </div>
@@ -106,9 +104,9 @@ export default function Home() {
         </hgroup>
         <div className="description">
           <p>
-            We strive to help you to grow your business into what you've always
+            We strive to help you to grow your business into what you&apos;ve always
             longed for. To promote your brand and elevate your products right in
-            front of your customer's eye. Our formula to accomplish this is
+            front of your customer&apos;s eye. Our formula to accomplish this is
             pretty simple.
           </p>
         </div>
@@ -207,7 +205,7 @@ export default function Home() {
         </form>
         <div className="info">
           <p>
-            It's very easy to get in touch with us. Just use the contact form or
+            It is very easy to get in touch with us. Just use the contact form or
             pay us a visit for a cofffee at the office. Dynamically innovate
             competitive technology after an.
           </p>
@@ -234,7 +232,7 @@ export default function Home() {
                 />
               </g>
             </svg> */}
-            <span>+1(23) 4567 91234</span>
+            <span>+234(811)680 9425</span>
           </p>
           <p>
             {/* <svg
@@ -251,7 +249,7 @@ export default function Home() {
                 d="m358.37 204.77v-34.133c0-56.554-45.846-102.4-102.4-102.4s-102.4 45.846-102.4 102.4 45.846 102.4 102.4 102.4c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533c-47.128 0-85.333-38.205-85.333-85.333s38.205-85.333 85.333-85.333 85.333 38.205 85.333 85.333v34.133c0 9.426-7.641 17.067-17.067 17.067s-17.067-7.641-17.067-17.067v-34.133c0-4.713-3.82-8.533-8.533-8.533s-8.533 3.82-8.533 8.533c0 18.851-15.282 34.133-34.133 34.133s-34.133-15.282-34.133-34.133 15.282-34.133 34.133-34.133c4.713 0 8.533-3.82 8.533-8.533s-3.82-8.533-8.533-8.533c-22.915-0.051-43.074 15.13-49.354 37.168s2.847 45.565 22.347 57.601 44.622 9.65 61.507-5.843c1.858 18.046 17.543 31.464 35.659 30.505 18.117-0.96 32.298-15.958 32.241-34.1z"
               />
             </svg> */}
-            <span>contact@elixtechnology.com</span>
+            <span>abiodunigbehinadun17@gmail.com</span>
           </p>
           <p>
             {/* <?xml version="1.0" encoding="UTF-8"?> */}
