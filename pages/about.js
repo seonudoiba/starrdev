@@ -9,9 +9,9 @@ const About = () => {
                 <div className="u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-md u-align-left-xl u-container-style u-expanded-width-sm u-expanded-width-xs u-group u-shape-rectangle u-group-1">
                     <div className="u-container-layout u-valign-middle u-container-layout-1">
                         <h3 className="u-text u-text-1">About Our Company</h3>
-                        <p className="u-text u-text-2">  We strive to help you to grow your business into what you&aposve always
+                        <p className="u-text u-text-2">  We strive to help you to grow your business into what you&apos;ve always
             longed for. To promote your brand and elevate your products right in
-            front of your customer&aposs eye. Our formula to accomplish this is
+            front of your customer&apo;ss eye. Our formula to accomplish this is
             pretty simple.</p>
                         
                     </div>
